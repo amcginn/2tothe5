@@ -1,4 +1,4 @@
 #!/bin/bash
-# test for cerner_2^5_2021
+# test for cerner_25_2021
 
 echo Hello World!
